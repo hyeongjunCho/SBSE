@@ -1,0 +1,717 @@
+x38 x5 / x33 cos tanh atan x42 x24 - x48 ^ ^ ^ exp
+x23 x22 * log sqrt
+x6 log x46 tanh ^ cosh log x38 0.913405 ^ x49 x7 / / x53 x24 ^ ~ ^ +
+x7 log sqrt
+x37 sqrt abs
+x47 x12 exp ^ x38 log atan x20 - ^ cos 1.774267 +
+x9 x55 / 1.954182 1.089723 sqrt 0.621954 asin + 0.179782 * ^ sin x52 x38 x48 - * 0.614245 cosh + atan tanh + ^ exp
+x6 sqrt log sinh
+x15 0.173753 1.985414 log * * log
+x55 log
+x1 abs sqrt 1.918053 sin cosh log * x57 x19 x9 atan ^ x29 - / -
+x48 tanh exp
+x19 exp tan x47 log tan 1.425383 x22 ^ ^ asin ^ ~ ~ exp
+x15 x18 0.332950 / / acos sinh exp
+x1 x11 + tanh 0.212405 tan + x39 log ^
+x39 atan log cosh sqrt exp abs
+x49 x5 / x25 cosh ^ tanh exp
+x39 sqrt 0.653864 x16 atan + + log
+x9 x17 / sin x34 x9 ^ * 0.890321 x40 ^ 0.618713 x9 * ^ sinh ^ exp
+x11 atan sinh ~ 0.874440 x32 ^ exp - ~
+x9 x17 ^ 0.508827 x24 ^ + x30 x43 / exp ^ atan atan atan exp
+x16 cos 0.053204 1.094300 ^ * ~ ~ x38 x50 ^ sinh cosh sqrt + atan sinh
+x56 x11 * x45 tan / x45 x50 / acos / x15 1.032123 ^ x16 x53 + * x15 x23 - atan / * x30 x4 - x3 abs / sinh acos ^ x17 x16 / log x34 x1 ^ sqrt ^ atan abs ^ asin cosh
+x15 cosh tan x15 x46 ^ atan / exp x35 exp x52 x20 * / exp x19 x33 * x30 1.707858 + / ~ ^ / x44 sqrt 1.683366 tan / x42 x29 / sqrt * 0.763050 cosh 0.786932 exp / exp / x24 x6 + sinh cos atan + ^ cos exp
+x53 x43 / 0.303961 cosh / x19 x31 + sinh / acos 1.501070 x15 - x55 x54 * / exp acos + sin exp cosh
+x33 cosh ~ abs x52 cosh x19 x3 * ^ sinh ^ atan sqrt sqrt exp
+x4 sinh x48 x43 / + tanh x23 x35 ^ x20 sqrt * x40 sin x55 x9 * + / / cosh x52 ~ x34 x26 / / x20 sinh x36 x56 * - - atan ~ * sin tan sinh
+x27 x39 - x22 x35 - - x2 x22 * x55 x2 ^ * / x37 x30 + 1.281916 tan - x47 tan ~ - ^ cosh ~ acos
+x2 sqrt tanh atan sqrt x2 x27 - atan ~ exp - sqrt exp
+x22 tan sin 0.228710 atan sqrt + x37 atan abs x53 x19 + exp - - tanh x36 x34 ^ x24 x51 + - x34 0.446251 * x13 x45 + ^ * ~ asin x3 x11 + acos tanh sinh abs ^ x34 sqrt x32 exp - x39 tanh 1.911243 x55 ^ / * x45 cos x18 x13 + + log + sqrt 1.409654 log atan x28 x47 - x11 x34 + / / x26 1.516380 + x19 x45 * ^ x41 x1 / sqrt ^ ^ sin / ^ ^ exp
+x47 tanh exp x27 1.951825 - log ^ x54 abs x53 x18 / * tanh - x26 sinh sqrt x23 log abs / sinh - x53 log abs x5 sin acos / x29 x14 - x11 log / x35 sqrt x37 log + + * x12 sqrt sin abs cosh + - atan cosh
+x17 atan tanh cosh sin 0.580613 x33 + atan atan abs ^ asin sinh
+x51 atan x51 sin ^ x53 x41 ^ abs / 0.250074 abs x27 x30 * / cosh / x49 cosh 0.908731 exp / log exp + sqrt atan
+x47 atan x18 x51 + * abs tanh abs log cosh exp
+x47 log x24 cosh / x4 exp sinh - exp 1.798321 atan abs x11 x5 ^ x54 1.477727 / - - x50 x27 + cosh x45 sinh x9 exp * - + ^ tanh exp x43 x41 ^ 1.182833 abs / log sinh log log x51 ~ tan tanh x30 1.664784 ^ x5 atan ^ atan + x20 atan cosh cos cos / atan * atan +
+x54 x30 + x57 tanh / x49 x21 * x9 exp * + sinh atan cosh abs x8 0.572560 - sin x44 atan 0.116233 sqrt + + x47 0.579641 / x36 x43 * + sinh / cos + exp log
+x28 log x39 x25 ^ - cosh x56 tanh cosh log ^ atan sin sinh exp sqrt
+x27 sqrt tanh tanh asin sqrt asin tan
+x17 x15 ^ tanh 0.980088 x28 ^ log ^ x41 exp x15 0.808970 - - cos ^ cos exp cosh
+x33 ~ atan cosh sqrt tanh exp
+x6 atan cos exp atan sqrt sin x42 exp 0.020059 x10 / ^ log tan x17 x46 / exp abs cos - sin - exp
+x53 ~ tanh asin atan cosh sinh
+x7 cos x47 atan - x5 cos log - x22 x7 + x26 x8 - ^ cosh ^ sqrt x25 1.339967 / cos sin tanh 0.341352 x17 ^ cosh log sqrt * ^ abs exp
+x12 x40 * log x36 1.646407 ^ x21 x53 + - - sin abs x31 x37 / x14 sqrt + tanh sin acos + cosh
+x26 cosh x34 atan - tanh ~ acos abs abs
+x3 x29 / tan x52 1.098969 - cosh / cos ~ acos cosh log
+x35 x12 / tan 0.689723 0.159129 / x19 0.261250 - - / tanh atan tanh acos tanh exp
+x1 abs 1.961721 sinh + atan ~ abs x19 x37 ^ tanh sqrt cosh sin ^ sinh
+x32 ~ x35 x17 ^ + x35 abs sqrt - x40 x44 - sin x33 0.698963 / 0.795157 ~ * + - tanh exp
+x50 x4 ^ tan atan 1.708372 sinh sin sinh ^ x8 1.507547 / tan 1.895308 ~ x48 cosh / + 1.163684 x22 - asin abs * + 1.161925 x39 / sqrt log sin log + atan ~ x55 x10 * x30 cosh - atan x57 x49 ^ cosh 0.272145 x25 * x38 x42 - - + / sqrt ~ ^ exp
+x43 x39 - abs atan cosh abs
+x8 x41 + 0.485378 1.982200 - ^ sin abs exp x30 x14 - abs sin ^ 0.400891 cos ~ 1.813415 x19 * x10 cosh * / cosh tan ^ exp
+x14 x39 / log acos cosh abs
+x23 tanh x31 x35 - / tanh cosh exp
+x47 abs sqrt log abs
+x56 sinh 0.119614 x29 - * exp exp 0.078576 tan 1.491503 sin + tanh x29 atan x41 x28 / + x42 exp tan - * ^ exp
+x19 x3 ^ x52 x41 - / atan ~ cosh
+x10 x36 / 1.435989 log + x14 x11 + cosh / cos exp sinh tan
+x3 1.360329 - tanh sinh exp
+x25 x57 + 1.397464 tan * cosh atan cosh
+x44 cosh atan abs atan sqrt exp
+x43 0.127771 * tanh abs x24 0.580011 * tanh 1.242827 abs x48 0.441997 / / * tan acos sqrt ^ exp
+x57 x46 - x54 x25 - * log sqrt
+x4 x23 / sin exp cosh sinh abs cosh
+x10 tanh exp sinh tan
+x16 atan x52 1.135446 + + log x37 cosh atan sqrt sqrt + sinh sqrt log
+x21 x20 - atan x16 sqrt x56 x54 * - - cosh atan
+x29 1.883288 + tanh tanh asin exp
+x46 sin x3 1.405879 * - tanh x36 x4 + x8 x9 ^ - cosh / cos 1.525771 0.426360 / 0.032384 0.277724 / ^ atan cosh sinh ^ x5 acos cosh x12 x23 ^ 1.631433 sinh / - x9 x33 * atan x26 x2 / cos - asin - x26 x34 ^ x41 cos ^ x37 log log / x11 x9 + x24 atan + x48 cosh cosh * exp - * acos ^ abs exp
+x17 x21 * sinh tanh 0.944004 0.372376 + abs x27 0.701936 * x25 sqrt ^ - cosh tanh 1.842797 exp x29 x36 * - asin cosh ^ / exp
+x50 sinh x44 log * ~ atan tanh acos
+x2 0.793148 ^ tanh acos log tanh acos sqrt
+x25 tanh sin x28 x53 / cos ^ asin exp
+x28 x18 * 0.471610 exp + atan x45 abs atan cosh ^ abs
+x4 1.218939 / x28 tan / acos x6 tan x34 x14 / - x10 x2 * cosh / sin ^ abs x27 tan x54 x4 * - exp sqrt ^ exp
+x18 0.596269 + log tan sqrt
+x54 x29 * tanh x53 log log - sin tan acos
+x5 x49 + abs 1.667587 log tan - x54 tanh x39 x8 + * x25 x31 ^ x22 cosh / / x28 sin x4 abs + x33 tan x6 tan / - - sinh * x22 x24 / exp exp ~ + atan cosh
+x31 x40 ^ abs log atan sinh
+x47 cos 0.598966 x38 * - ~ x53 x30 + x42 abs / x39 x26 * x28 0.388181 ^ / / acos log *
+x24 x52 + x10 1.545917 ^ - 0.822726 atan x13 sqrt * + ~ x53 1.345159 - x34 tan + tanh ^ 0.115780 x17 + x37 tan - cos x32 abs sinh x56 x17 + log ^ / ^ x8 x43 ^ x1 x37 - / x33 atan x17 sinh - ^ sqrt x7 cosh x11 exp ^ ~ x21 x54 * x34 sqrt - 0.946601 tanh x8 x39 ^ / - / * cos sin ^ exp
+x44 x38 + x21 exp / acos sinh
+x22 tan tanh abs tanh exp cosh
+x10 x51 * log x24 sqrt log + log
+x25 x13 - abs tanh tan tan x19 tan x8 x57 - - tanh / 1.717170 x2 ^ abs 0.006807 tan tanh * x51 x5 / atan sinh + ^ 1.367554 x19 + x54 x9 + + x45 cosh x40 x27 / + - * tanh acos
+x55 tanh 1.727831 0.736746 ^ ^ cosh cosh
+x17 x16 - tanh x15 x27 * x7 log + + x36 0.174362 - x17 x18 ^ + x7 sinh 0.642336 x6 ^ - ^ + 1.457786 x15 / asin sqrt 1.341267 x23 / sinh x23 x19 / sinh * / abs cosh - atan
+x19 exp x22 ~ - tanh ~ acos
+x53 x45 * ~ atan cosh
+x12 log abs 0.669402 ~ ~ ^ x36 x40 / 0.034328 acos * cosh * sqrt
+x15 x57 + x32 sqrt + tanh exp exp log
+x54 x36 - exp x20 x18 * x6 sinh - / cosh exp
+x32 0.326506 ^ sin exp x31 x1 - sinh x51 x30 * x7 cos ^ * atan +
+x23 x47 / x51 x15 / / log cosh
+x17 x57 / abs sqrt exp
+x28 x42 / sinh x26 x26 + x54 ~ ^ ^ cosh 1.258131 cosh x5 3.306014 ^ + x43 abs ~ * exp sinh x30 x54 / x12 sqrt + log + atan ~ -
+x52 sqrt 3.585735 0.344859 - + sinh 4.541288 x55 * x53 x32 * - x56 atan x51 tan ^ - x2 x15 + atan abs + * tanh acos
+x1 tanh cos ~ cosh exp
+x13 ~ cosh x31 x56 - sinh * atan ~ cosh
+x17 sqrt exp exp abs atan sqrt tan
+x24 atan 1.695905 x6 - / atan sin tanh cosh exp
+x55 abs sqrt x9 x33 / cos atan abs sin ^
+x56 tanh tanh x16 atan cos cos + x24 2.723255 * x50 tanh + x46 tan exp - tanh abs +
+x10 x24 - tanh 4.940209 x37 / x6 asin + x55 exp 0.614672 x48 / ^ / x52 x19 ^ x25 atan / x11 2.422843 - x37 x4 - - 0.191163 sin x43 x9 + / ^ ^ - ^ exp
+x28 x37 + x17 sqrt - atan sinh
+x50 tanh exp exp sqrt
+x46 sinh sin x38 cosh log + sqrt
+x10 4.723244 / 4.146510 x27 - - log log sinh
+x37 x39 * x15 x13 - ^ x1 abs log - atan cosh atan exp
+x27 tanh 3.402018 sqrt + exp log
+x22 sqrt 0.812598 exp - abs sqrt
+x15 x24 / x11 acos - ~ exp x10 x57 - tanh log abs x26 sqrt abs / ^ exp
+x52 x14 * x12 2.618388 / - tanh sinh abs sqrt exp
+x20 ~ tanh abs exp
+x30 x36 / cos x23 x40 + x39 log * * ~ tanh acos
+x47 sinh 0.965062 x2 / ^ log cosh exp
+x43 x46 / cos acos exp
+x25 x53 + tanh tan x20 x10 + atan x25 x1 - x44 abs / ^ x39 x11 - x56 0.133240 + * * tanh +
+x1 2.817896 / log atan tan
+x47 x29 / atan 0.406500 x53 / x50 x38 + - / cos exp
+x9 cos abs x49 x25 * x10 x18 + * / cos sinh exp
+x15 tanh abs exp
+x36 log log cosh x26 abs cos cos x1 x24 - 1.283902 cos / / -
+x44 log x57 2.950963 / / exp abs exp
+x8 x10 / exp x2 tanh 2.376449 2.073523 - * atan + exp
+x43 x42 - 0.775967 acos + 0.600744 tan tanh * atan cosh
+x28 exp atan atan exp
+x21 sqrt x12 x26 / ^ tanh tan exp
+x21 abs exp tanh exp
+x24 x41 - sinh x30 sin x15 exp + tanh - x47 log cos acos + exp acos cosh
+x51 x52 + x2 abs + atan 3.722903 2.223188 ^ abs sin ^ asin exp
+x33 x41 - log abs x57 0.955498 - x29 ~ ^ ^ exp
+x55 exp cosh atan sin sqrt exp
+x11 x42 + 0.102461 abs * x15 x50 + x2 ~ * * cosh x1 log cosh 3.084270 exp x46 x30 * / ^ / tanh exp
+x22 log 0.399717 x1 * - x19 atan x52 x38 / + x50 acos tanh ~ / / x27 x1 + 2.010545 ~ * x10 exp x52 x2 ^ * / ^ exp
+x48 log sqrt atan exp
+x33 tan x31 x39 ^ + tanh ~ acos
+x52 exp x18 x21 ^ - x57 x30 + cosh * tanh acos
+x21 x46 - x10 x39 - * x30 tan x35 4.106174 ^ + / sin exp exp
+x19 2.074810 ^ log ~ tan acos cosh
+x19 x32 ^ tanh 0.835587 ~ x44 x15 - * ^ x2 x12 + sqrt sqrt + log
+x57 x19 * x6 x17 * / x44 x23 + x53 x11 ^ * ^ x10 sinh x11 x28 - + 1.829482 log 4.201530 x7 * / + x42 cosh tanh 0.789484 x20 * x39 atan / ^ + * atan cosh
+x46 cosh sqrt tanh sin exp
+x30 sqrt cosh sin asin x52 0.842580 * exp 1.552101 x56 - acos log * cos cos * 2.776209 tanh x13 x23 ^ + atan x2 sin exp x6 log log * * x31 log x3 x31 ^ * exp - exp ^ exp
+x10 x33 * x26 log - atan cosh
+x12 x21 / cosh 4.857074 sinh log - abs
+x15 cos x48 log / cosh exp
+x49 x11 / x48 x3 + * log x56 x3 ^ x38 3.951848 * * cosh / cos abs exp
+x9 x23 * sqrt atan sqrt exp
+x21 sqrt x52 sinh + sqrt atan cosh
+x41 2.458063 / exp x31 tanh cos x48 x15 / log / ^ atan cosh
+x52 sqrt tanh exp
+x20 4.971306 / atan sinh
+x56 x22 + x37 x16 + + x57 x44 / x30 3.922963 ^ * + tanh exp
+x37 1.441603 + log x43 exp x21 x52 + / / acos sin sinh exp
+x24 0.882023 / tanh exp exp log
+x18 x16 ^ x18 x46 ^ - 2.408134 cos sinh ^ cosh ~ acos
+x41 0.003166 + 0.671916 ~ ^ x30 x15 + x55 x57 * / ^ cosh exp abs
+x13 x35 * x2 x26 ^ / acos sin exp
+x30 4.982743 - x33 x43 + + 1.012580 x21 + log ^ x31 log sinh + atan x28 x31 / 2.580416 atan ^ acos +
+x29 sqrt sinh tanh exp
+x4 ~ log sinh sqrt
+x14 x7 ^ x39 sqrt ^ atan cosh
+x14 x19 * x55 cosh - tanh acos
+x34 tanh sqrt exp abs
+x8 x19 / atan cos ~ acos
+x14 x17 ^ x4 x33 - + 0.129920 x42 - x48 x16 / / + x6 3.345553 / x36 exp * x14 tan 0.473976 2.212066 - ^ sinh + * x26 tanh x6 tanh - sinh tan ^ exp
+x50 sqrt x25 x23 * - sinh atan sin acos
+x16 tanh cos x3 x28 / x54 log * ~ * x20 atan x40 x9 + ^ ~ tanh ^ abs
+x10 x47 + tanh x47 x14 / 4.220439 abs ^ ^ abs exp
+x9 atan sinh x31 x36 + x49 cosh / sinh * sinh tan abs exp exp
+x37 x16 / x16 x19 + / asin cosh exp
+x52 atan log ~ cosh abs exp
+x42 x49 / x38 sinh + atan sin tan cosh
+x48 abs x13 x28 / + tanh exp
+x46 x16 - tanh tan sin exp
+x6 x25 / log exp 3.323745 atan x16 asin / log x54 x51 / tanh * x54 exp tan tan ^ acos * x55 sin x27 tan * x56 sin x3 ~ + * sinh x41 x14 / x37 x6 ^ * abs x26 abs x36 x56 - ^ / ^ 4.832703 log 4.393569 x28 + + tanh - ^ exp
+x40 atan ~ atan cosh x4 x32 / x55 log / x14 x47 - 4.796610 abs - atan - +
+x2 cosh log abs 4.316953 x43 * x43 sqrt + tanh x7 x45 + atan - ^ sinh sinh acos sqrt tan
+x23 x38 * x43 abs * x53 x54 * ~ / tanh acos
+x18 x48 / acos log tanh x32 tanh sqrt cos 4.239501 x21 ^ atan cosh ^ asin * exp exp
+x47 x35 - x14 asin - acos x46 tan abs x32 x20 ^ 1.496253 sqrt - / / x18 ~ x8 exp ^ x15 asin sqrt ^ x53 asin log - x47 ~ x25 cosh ^ 2.278646 exp x12 ~ ^ ^ tanh / x22 x17 + exp x41 tan 4.958199 1.588122 - - - x5 x30 / cos tan ^ / x3 ~ cosh abs ^ ^ exp
+x18 tanh x54 cos ^ exp
+x17 tanh tan x31 exp tanh x46 4.172796 + x5 abs + / x23 tanh acos x32 x12 ^ 4.658182 cos + 2.523544 x4 + 0.510508 ~ / x3 tanh atan - ^ ^ * tanh ^ 0.875862 1.303089 ^ cosh sinh x12 sin x42 x16 - / exp + *
+x20 x49 / x48 atan * 3.671775 cosh ~ / x35 log x1 x57 * / x7 x17 + x19 x37 * * * + ~ tanh acos
+x38 0.920975 * 3.444219 x55 + ^ atan atan exp
+x3 tanh sin cosh exp 1.920075 atan x37 4.258155 - + x2 exp x28 abs + - sin x25 ~ sinh exp abs 4.532282 cos tanh * ^ atan *
+x37 x29 / x56 asin * x5 sqrt x45 x50 / * / x21 sin asin 1.262593 x26 * x12 cos ^ asin + x20 x18 + exp tan - * x14 x8 * abs x12 x54 ^ cosh ^ ^ x23 0.978915 - 1.670921 x24 - + abs 0.954624 x23 - exp - x40 x19 / x4 x15 + * ^ cos 4.358209 sinh x46 sinh ^ 0.684345 x25 + ~ / cosh / ^ x52 x47 / atan tanh cos cosh +
+x5 x47 * x4 x37 + + x27 tanh log * sinh cos exp
+x52 x38 + sinh atan cosh
+x44 1.755947 - abs x3 x35 + x27 sqrt * / exp exp
+x47 exp x36 sin - 0.711724 x50 + cosh * x33 sin tan abs + tanh exp
+x53 exp x35 tanh - exp atan sinh
+x46 atan abs cosh tanh abs x13 x29 - x20 x15 / - sinh abs sqrt sqrt tanh * x15 x18 / sqrt log /
+x33 exp tanh ~ acos
+x4 0.600131 + x5 x31 - + 1.401299 x53 / exp - tanh acos 1.373114 ~ x41 tanh ^ exp sin +
+x27 3.080280 / atan atan log sinh exp exp
+x39 0.787322 - atan 1.375088 abs x41 x41 / + + ~ cos cosh tan
+x4 tanh acos abs
+x7 x10 ^ tanh cosh x22 sin x38 x27 ^ - / x28 4.330418 ^ tanh log atan / exp
+x39 2.301052 * exp x43 x37 + x12 3.713258 + ^ - x38 x15 - x35 x15 ^ ^ log ^ tanh x38 atan sqrt x47 2.547218 / x36 4.296536 / * x55 x55 - x16 tan / asin - atan + *
+x23 x26 - x53 cosh * x26 x31 ^ ~ / sin tanh cos x11 x39 - sin sin acos +
+x4 exp tanh atan acos cosh
+x50 3.336067 ^ atan sin x21 x34 / x28 atan ^ ~ / cosh log
+x25 tanh tan x11 ~ ~ ^ log sqrt abs
+x51 4.971849 ^ atan cosh tanh abs exp
+x39 sinh exp x31 log ~ * sinh tanh acos
+x50 x45 * x27 log ^ tanh x44 x36 * abs x32 sqrt x41 x12 + ^ x42 x35 ^ asin atan cosh + tanh + ^ exp
+x4 exp x28 x1 * * sqrt cosh exp
+x20 x2 / x16 abs + tanh 1.719130 log log 3.622108 x49 - cosh - ^ x13 atan x48 exp - asin 2.800315 x6 ^ 1.574338 x30 + ^ 4.156587 x54 - x34 x10 * - - 4.096200 x17 - asin x1 x17 ^ cos + ~ / * ^ exp
+x3 sqrt exp atan atan exp
+x37 x56 + tanh sqrt tanh exp
+x15 2.384730 ^ log x46 atan 0.939577 acos - tanh * sqrt
+x48 abs abs x42 sin acos + x39 x38 + x16 atan * - 4.503861 0.584190 * x19 x36 * + tanh cos x11 x4 / exp x7 x55 / tan x47 x56 * x33 x26 - / x44 0.164212 ^ x30 cosh - - / * * / x39 cosh acos atan x17 x43 + cos / exp x30 4.103267 - cosh ~ x3 log x51 x55 / ^ x33 x13 - x54 x17 ^ / + ^ + ^ exp
+x17 atan x35 log * sqrt x9 sqrt log sin ^
+x2 x21 ^ tanh cosh cosh tan acos
+x55 x12 / x39 x47 + ^ atan sin exp
+x18 3.178011 - cos cosh sqrt sinh cosh
+x52 x6 - cos 3.626000 sqrt exp x4 x11 - cos x25 cosh x23 x53 - + atan / ^ 2.360508 abs asin 2.324509 2.635769 + 4.652164 sin * atan - / x49 abs 3.358102 x36 ^ ^ 2.159197 4.876723 + sin 1.097027 x28 + exp / x1 cos x12 0.732961 - / x29 cosh sqrt + - sinh ^ - ^ x54 tanh log acos x19 x38 * sqrt sinh 3.398619 x16 + x28 exp - x57 x51 ^ exp - - / ^ exp
+x14 cosh atan sinh cosh x39 x23 - atan /
+x52 asin 0.386437 x54 ^ / 0.119754 0.353002 ^ x39 sinh ^ tanh - exp
+x2 x30 / atan atan exp
+x17 atan x7 exp + x12 sinh ~ ^ cosh exp
+x22 x30 - 0.497307 x32 * / ~ exp
+x19 x41 ^ atan sin x37 x38 + 0.201687 x22 ^ ^ cosh ^ acos cos exp
+x45 0.466916 * cosh tanh exp
+x7 0.232716 + 0.211436 exp + tanh exp abs
+x21 atan x13 x39 + * log tanh exp
+x10 log 0.365962 sqrt ^ sqrt sinh
+x35 tanh x25 x23 - ^ ~ acos
+x27 x53 + atan 0.124945 asin x24 log * + x56 x3 / sqrt 0.165049 asin asin / * sqrt
+x54 tanh 0.313764 x33 - ^ 0.090371 0.487238 + x23 atan + log + sinh
+x16 log sqrt sin 0.263221 0.468413 * x15 sinh * - tanh acos
+x14 log sqrt x22 cos tanh x2 sinh x30 cosh + ~ / cos x43 x23 - sin acos atan log tan tanh ^ sqrt *
+x22 log sqrt exp sqrt
+x3 0.153662 + tanh asin sinh atan exp
+x15 atan exp cosh cos acos
+x26 0.370622 + cosh tanh abs exp
+x40 0.224216 * sqrt sqrt
+x49 atan x10 atan + sqrt cosh
+x24 x32 * atan sqrt sqrt exp
+x22 exp sqrt 0.198018 0.106956 / x27 x31 / / / x47 0.022346 / 0.196270 x23 - / ^ x35 x37 / 0.051767 0.494457 * / abs tanh - acos
+x24 tanh 0.461648 x55 - / cos abs tan x12 x49 / sqrt 0.155549 x17 ^ ~ + log exp cos tan +
+x36 tan x50 sinh - cos ~ exp 0.083586 x22 * x31 sinh / / exp
+x50 x9 * cosh sqrt log 0.431133 abs asin 0.200725 0.358567 - tanh / ~ + sqrt
+x18 x2 * atan x5 x36 / exp sinh +
+x21 x55 + x57 ~ * x8 x26 ^ atan * x21 sinh 0.334159 ~ / + 0.033846 exp 0.406932 sin - cosh 0.115584 0.448359 ^ x33 x44 / ^ sinh + - 0.164549 0.222866 / x55 sinh - exp x6 0.264885 - ~ / / exp
+x23 abs atan x20 x13 / x52 exp / * ~ x24 x54 - x45 0.043925 / - x30 x49 / cos - + tanh acos
+x11 0.490716 - x54 cosh - sin x14 x12 * atan / cosh exp abs
+x26 atan exp sin acos
+x53 x31 + ~ atan sin acos
+x43 x32 + x17 sinh + x30 0.433013 - tanh asin / abs log tanh sinh exp
+x31 sinh exp sinh x48 sinh x23 cosh - / x6 x48 + atan sinh +
+x26 tanh x25 x23 + + 0.464966 x49 ^ tanh / 0.054802 x24 - exp x42 cosh log - atan ^ exp
+x12 x46 + log 0.005040 asin acos * sqrt
+x46 tanh tan x15 x3 / abs + abs sqrt
+x24 x3 + x25 x46 + ^ 0.322320 cosh cosh tan - log tan
+x43 sinh x51 x27 / - log tan
+x37 x53 / abs x18 cosh x50 x24 - * 0.308795 x26 / asin ^ exp - abs
+x41 0.139025 - cosh tanh x7 x7 - acos x23 x43 + log * sqrt sqrt * cosh
+x10 atan 0.128218 log / x21 sinh sqrt / 0.234946 0.267756 / sqrt x48 0.231480 ^ x52 ~ * * - cosh ~ tanh acos
+x53 exp abs sinh log tan
+x26 log 0.359674 cos - tanh exp
+x32 x43 / exp atan atan tanh exp 0.407834 x12 + abs x15 0.193214 + x54 abs * / 0.114907 x8 - cos tan - sin -
+x44 x46 / tan x24 0.406508 / atan + abs
+x48 log 0.050128 cosh + log atan exp
+x25 0.484522 ^ 0.272948 tan - 0.411990 0.084357 ^ abs 0.471615 x2 - 0.277967 tan + - 0.410093 exp x28 cosh ^ x48 0.319560 ^ x51 x25 ^ + * ^ + log tan
+x30 log tan acos 0.346939 cos sin asin x20 x4 + 0.235509 atan - x21 tan x44 exp / - log ^ +
+x26 x50 - x7 x12 * / 0.124304 x27 * sinh - cosh log tan
+x18 tanh sinh exp
+x10 cos 0.159416 sinh / 0.076310 x49 * ~ - x20 atan 0.100096 0.154366 / - ^ x37 x55 / tanh + log
+x34 x5 - log 0.437291 0.164747 ^ x1 0.172268 + ^ abs * x32 abs tanh + sqrt exp
+x3 atan 0.220559 sinh ^ exp
+x48 abs sqrt log
+x34 tanh abs tan x42 x57 * tanh x46 atan x49 abs + + sqrt x24 x16 / tanh + tan +
+x27 x57 * sinh x18 tanh cosh tanh - tan abs
+x49 cosh atan x23 ~ atan - cos acos
+x48 x43 * cos x36 tanh cosh + x2 exp sinh x4 atan 0.227112 sin / + / exp exp
+x9 x3 ^ x55 sinh + exp 0.411999 acos x14 0.433474 ^ * cos + log tan
+x6 log 0.280926 0.029998 + * exp
+x36 0.366789 / atan sqrt tan
+x28 0.067515 * abs x44 cosh 0.129521 x50 * * x45 sinh log cos + - tanh acos
+x22 x8 - 0.449299 0.295034 - ^ exp x54 x33 ^ atan x7 0.367590 * 0.287182 x46 ^ / - x13 0.305692 - atan - + sqrt
+x37 x17 ^ 0.409032 x30 - + exp tan x43 x9 / x30 0.221072 ^ / abs +
+x53 sinh abs log tan
+x7 x48 * x52 x20 - * log log
+x32 x7 / sinh exp abs x48 x12 * x44 x43 * / sinh cosh cos sin /
+x44 sinh 0.303015 0.471903 / * sinh log tan
+x32 x21 * 0.286862 x31 ^ + tanh tanh exp
+x21 x20 + sinh x18 0.376339 * tan + log tan
+x42 exp x40 tanh - cos exp tan
+x11 log x21 ~ * x30 ~ x37 x10 - / + tanh acos
+x40 abs x40 x44 / + tanh exp
+x54 x37 / x50 0.186377 ^ ^ log cos x31 log cos 0.154866 x17 - x33 log * x24 x50 / x51 atan * - cosh - tan +
+x46 x17 - tanh tan 0.342105 0.144147 ^ x53 0.304365 / ^ log atan -
+x9 tanh 0.411616 x7 * - sinh 0.341600 x49 / x17 0.434246 + * x36 sin x10 x24 ^ + - / exp
+x15 sinh x53 x3 + * log log
+x10 log cos sin x24 atan x25 x14 ^ - x12 sin x1 tan - - / acos 0.011155 sqrt x5 x50 - ^ cosh 0.195786 x2 / tanh 0.041634 asin x1 x31 + * cos * / x36 asin 0.404352 cos ^ x46 0.382213 - asin tanh / ^ cos /
+x17 x7 ^ ~ ~ 0.091626 x49 + log - tanh exp
+x42 sinh log tan
+x34 x18 + x11 0.177649 ^ ^ 0.350354 atan acos - 0.396402 x22 ^ sin tan / exp
+x28 0.008441 - 0.441105 ~ + sqrt sqrt abs
+x42 tanh atan tan ~ acos
+x7 atan exp sin acos
+x56 atan tanh x49 abs atan x24 tanh log ^ x35 exp x36 log / x1 x20 - x44 sinh + / * abs + exp
+x26 x23 - x26 0.243226 + - tanh asin exp exp tan
+x46 x30 * 0.346065 sqrt + x10 sqrt 0.149540 x2 - / ^ cos abs x30 x33 / x34 x28 - * atan abs sinh +
+x2 x24 ^ x45 cos - 0.329656 asin sinh - x46 x1 / 0.171356 0.482871 * * acos log sinh - log tan
+x37 x40 * 0.366391 tan - atan sqrt tan
+x26 ~ cos 0.038517 sinh x7 exp - x12 x43 / x17 log ^ - - x46 abs x24 x20 ^ ^ / exp
+x51 log x42 cos * 0.250265 asin x30 0.307889 / ^ ^ log acos x50 0.433208 ^ atan +
+x48 cosh cos tanh exp
+x54 tanh sin x42 sinh x38 atan * / cos log cos exp
+x22 ~ x49 x3 ^ * x8 log cos - x36 tanh acos ^ exp
+x40 abs log log cosh
+x23 x55 - sinh atan log cos exp
+x7 atan abs tanh cosh x11 log x54 0.159298 + - atan - abs
+x30 cosh x17 0.406073 - ^ atan sinh sinh tanh exp
+x49 cosh log log
+x15 exp x11 cos + cosh tanh exp
+x31 x16 ^ x20 tan + log cos x39 log x55 0.428439 ^ / tanh sqrt ~ ^
+x57 ~ exp x49 0.145155 * sqrt cos x8 x54 / x37 x31 * - + / 0.259698 asin asin acos - tanh acos
+x25 x20 / x36 log + sqrt
+x7 atan sin sinh tan
+x53 sinh sinh ~ tanh acos
+x20 x16 ^ x57 x37 * - x42 0.274766 ^ x14 x55 * ^ ~ sin - x14 sqrt x23 atan + exp / exp
+x3 x1 / acos x35 abs 0.175476 x25 ^ / sinh cos /
+x50 0.178363 - sinh tanh x11 x9 + tanh x24 x38 / exp / atan - x56 ~ x29 tanh + x41 0.359862 + x52 sqrt * * exp / ~ acos
+x54 exp tan acos x57 abs tanh abs x47 abs ~ 0.324770 tan exp ^ 0.380978 x44 / sin + ^ x10 ~ tanh abs asin x11 log tan 0.128399 x36 * sqrt - x53 abs x42 asin + + x4 log sqrt ~ tanh atan / - ^ +
+x56 x36 / ~ tan cos exp
+x38 0.188852 / 0.041279 cos - sqrt cosh ~ tanh 0.481292 x32 - atan x20 cosh atan - *
+x55 x45 / x37 atan ^ x25 x48 + sinh + log x29 tanh abs x27 x52 / atan abs ^ x23 ~ exp atan sinh * ^ exp
+x10 0.078767 / ~ exp x25 ~ 0.151475 sqrt / atan - sin exp
+x54 sqrt 0.143645 0.034087 / * 0.067508 x41 + tanh exp - log
+x36 sqrt log exp log
+x20 0.031802 ^ 0.053868 tan ^ atan x8 sin 0.393109 x32 ^ * tanh cosh + sinh
+x21 ~ 0.296360 abs * tanh acos
+x45 abs x54 0.156803 * ^ sqrt log sqrt
+x54 log abs log exp ~ tanh acos
+x7 x51 + 0.198214 log + 0.027315 x16 + x33 x39 ^ / x12 0.021410 - 0.307904 sin ^ / ^ x44 x45 + x33 x48 + - ~ x49 sqrt sqrt tan ^ x44 abs x56 x33 - * exp / + x3 0.292214 / x11 x31 ^ / sin + 0.451539 x9 ^ 0.457614 sqrt / ~ acos abs ^
+x22 sqrt tan cosh exp
+x12 x46 / 0.453197 x48 * / acos sinh x54 x26 - x54 x42 / / atan x22 atan x51 ~ ^ ~ / cos sqrt /
+x22 x52 + sqrt log
+x34 x3 / abs log
+x11 x18 ^ sinh atan cosh
+x47 ~ 0.402899 abs / tanh acos
+x17 exp abs tanh exp
+x30 x28 * atan tanh asin exp
+x52 x20 / x54 x3 * ^ sinh log tan
+x28 0.302361 * sin ~ asin cosh x31 ~ ~ atan *
+x54 exp x57 x27 + + log tan
+x20 atan log 0.096232 x38 / exp - tanh cosh exp
+x19 x9 / 0.180876 0.415418 / / abs sqrt
+x10 0.460047 - log sqrt
+x20 exp x55 x51 ^ / acos tanh exp exp
+x48 x55 / log x46 exp tan + sin x14 tan 0.226265 sin + x30 cosh sinh / exp + abs sinh
+x20 asin log tan x10 0.273044 ^ exp x23 x4 * x50 sinh ^ / abs ~ ^ exp
+x30 x7 / cosh x42 cosh cosh x54 tan x53 exp / + abs atan +
+x31 x56 * log x37 x7 + abs / x27 exp tan / acos sqrt tan
+x34 log log x26 sinh x12 sinh * x36 sinh tan ^ x40 x10 + x15 x35 + ^ + tanh x3 sin x18 0.423509 ^ - x32 x15 - acos + x25 x54 / x52 asin + * x25 sin x14 0.347893 * * acos * ^ abs +
+x57 asin 0.292989 x7 ^ - x49 sqrt x28 sin - atan / acos x56 sqrt x7 exp + sin x49 abs x18 x11 ^ + / tan / exp
+x11 x51 / cos exp
+x53 exp cos cos exp 0.494388 x33 * log sinh cosh / abs 0.048785 x3 ^ cosh - acos
+x13 x35 - atan x2 x53 * sqrt / x11 0.145468 - x55 x51 - - - atan ~ cosh
+x34 0.327758 - sqrt tanh exp
+x30 x2 ^ cos cosh cosh
+x10 x40 - sinh cos x41 asin x28 x1 + / sinh x22 asin x31 exp + * * x41 x27 - ~ * x38 tanh sinh 0.291557 cos x22 0.143113 ^ - - x10 sinh sinh / / tan 0.252240 acos cos cos asin +
+x28 x10 / x8 ~ - 0.425626 sqrt x15 cosh / ^ 0.086697 x4 / abs x7 cosh tanh + + 0.215405 x2 - sin x51 cosh ~ - tanh +
+x19 x19 - x37 abs * 0.302460 x45 * x5 0.482784 + / + tanh exp
+x34 ~ x8 cosh * exp x39 x48 / sqrt x55 sin x46 atan - + x42 x51 + x26 cos - + * cosh x21 cos asin x10 x30 ^ cosh / tan log ^ exp
+x32 0.031809 * ~ 0.326694 x36 / x28 0.438856 / * - 0.289134 asin tan 0.208908 0.103924 - ~ / - abs sqrt
+x46 x29 ^ x17 x41 + + x44 x16 + tanh log ^ exp
+x30 0.199079 * abs exp 0.067165 tan log + log tan
+x53 tanh tan abs cosh abs
+x54 x28 ^ log tan
+x1 x32 / 0.339044 x39 * + tanh exp
+x16 log x34 x25 + / tan tan exp exp
+x27 x18 * cos x22 x37 ^ x7 abs * ^ 0.461547 x33 ^ x22 atan - + tanh acos abs
+x31 exp log exp log cos cosh exp
+x2 0.099045 + x54 x41 / ^ sqrt atan exp
+x10 cosh abs exp x14 x44 / asin / exp log tan
+x14 cosh 0.437124 sqrt + tan cosh exp
+x40 x39 + sinh log tan
+x15 x35 + atan x51 sinh 0.004803 0.209934 * * + exp x45 sinh cos exp x39 x10 ^ x14 x48 * + tanh ^ * cos acos
+x28 cosh x11 x48 + / sinh log x7 cos x20 cosh * abs cos 0.431155 sinh x6 exp ^ 0.295424 sqrt sqrt - - * atan x42 x49 + x32 atan ^ / x40 0.057276 + x33 ~ - 0.443031 sinh tanh - log 0.498990 sin 0.139432 asin ^ x17 0.454271 + x2 x36 ^ ^ ^ sinh / 0.068626 x40 + x56 x17 / ^ asin ^ exp +
+x28 x5 + 0.197109 x38 / / x21 sinh cos / 0.182050 sinh tanh cos / abs sqrt tanh exp
+x8 log tanh 0.159447 tanh cosh - exp abs x24 x52 + x20 x26 ^ - / cosh exp
+x54 x50 ^ log x10 ~ x55 x3 ^ ^ 0.018011 sinh x33 sinh ^ ^ ^ tan
+x45 cos atan x17 ~ exp / exp
+x27 tanh exp abs
+x28 x21 ^ x23 exp - tanh asin cosh exp
+x18 x5 + 0.026340 sqrt + log sqrt cosh sqrt
+x55 sin x41 x7 ^ - tanh x40 x10 * abs sinh ^ 0.480499 cosh exp log log tan + exp
+x49 sqrt exp cosh log 0.246877 0.268583 / x2 x42 * ^ tanh sqrt + tan
+x21 exp cos sinh exp
+x54 sinh sqrt log sqrt
+x30 log 0.349197 tan + sin tan x23 tanh x1 tanh - sinh cosh x47 abs x6 0.344190 / ^ x6 x31 / x2 x36 * + ^ sin sinh / + abs
+x44 log x6 sinh / x11 x43 / x18 0.430665 / * atan - cosh
+x47 x55 / abs x49 sqrt sin sin + log
+x3 x15 * log x26 tanh cosh ^ log
+x34 abs x38 0.117653 ^ - sqrt x19 log x4 sin * + log
+x46 tanh sin exp sqrt cos log abs
+x36 sinh x57 atan - tan
+x30 0.000699 / x47 x18 * - exp 0.339198 x22 ^ tan asin * 0.001972 log tan abs sin - cosh exp
+x11 x27 + log tanh 0.471919 x16 + x9 x22 / / sqrt atan * 0.034839 cosh x34 cosh - tan atan +
+x52 x55 - sin x53 x33 ^ x11 x18 / + - abs log tan
+x20 tanh log acos cosh
+x32 abs abs x21 tan 0.159489 x29 + * / cos x8 sin 0.194606 x24 - + x44 sqrt x57 x27 / / * cosh - tanh acos
+x29 x16 / x7 0.309408 + - tanh acos
+x20 x4 + sqrt sqrt abs x29 cosh sqrt sinh 0.447969 exp x26 exp * ^ x7 tan sin sinh exp tanh ^ tanh ^
+x52 x25 + 0.337820 x38 + / atan sqrt tan
+x43 x8 + atan 0.230688 log x39 x23 / - / cosh exp
+x46 sin tanh x35 abs 0.236920 0.003999 - - ^ x2 x10 * sqrt * tanh 0.453238 cosh x9 acos - - tanh x48 ~ x36 x26 / - exp / exp
+x48 tanh 0.080731 x56 ^ - 0.207603 x20 ^ x55 cos * / exp exp log
+x11 sinh tanh sin x32 tanh x48 log - ^ exp sqrt
+x37 x1 / 0.336590 sinh / x19 x33 ^ abs * tanh cos exp cosh
+x44 sqrt x10 sin - log abs
+x53 x32 ^ sin x18 x12 + x19 0.220661 ^ - + x18 x47 / x45 cosh + 0.279779 x21 - ~ 0.070976 0.076046 ^ tanh ^ / 0.096877 x44 + x42 x11 - ^ x45 exp tanh - / ^ x11 0.445809 ^ 0.392108 sin / x12 ~ sin + log +
+x26 log 0.115267 x26 + ^ x39 x6 + atan ^ 0.300949 abs x7 0.212140 / * x17 x38 * x45 exp ^ * ^ x22 x25 - 0.208096 x7 ^ - x16 x34 - tanh + cosh / exp abs
+x45 sqrt x27 log - x45 x49 ^ sinh atan - sqrt
+x18 x40 ^ x31 0.498125 + / log x10 x28 - x14 log / sin sin - sqrt
+x31 0.209943 - ~ x37 x25 + sqrt + ~ sqrt log
+x56 ~ tanh acos
+x41 x23 * sinh tanh exp
+x48 x2 * abs log log x44 atan tanh x12 x34 + sin ^ ^
+x32 sinh atan x37 atan abs / exp
+x23 sinh cosh tanh exp
+x6 x25 * 0.313910 tan / exp sinh sinh log tan
+x20 x25 + sinh atan sqrt tan
+x22 sqrt x17 0.368992 / / sqrt x41 x26 / x52 x18 * / + sinh exp tan
+x3 x23 ^ cos sinh exp
+x55 0.088027 * x37 x34 ^ ^ log tan
+x49 exp x10 tanh + x11 0.021840 - x41 x50 * / / sinh x33 x27 * x36 x15 * + tanh + tanh exp
+x1 sqrt sqrt abs tanh exp
+x17 sin sin sin abs x54 ~ x26 sinh + sqrt / exp exp
+x50 cosh atan cosh
+x41 log x52 x32 + + tanh exp
+x10 x45 * cosh 0.170567 tanh x43 x48 - - - log tan x30 x14 + cosh 0.329249 sqrt 0.186098 0.061327 ^ ^ x37 sqrt atan ^ x50 cosh sqrt tanh * + cos log +
+x40 0.216925 ^ cosh log abs
+x26 atan x42 x49 / / 0.171983 x7 ^ cos sqrt abs x1 0.164249 + tanh 0.217984 x22 / 0.054541 ~ + - ^ +
+x33 0.011481 * x38 x42 * * exp atan 0.062419 exp sin exp ^
+x8 tanh ~ 0.353887 acos sqrt * cos 0.427706 cos sin 0.397545 0.082516 * 0.211186 sin / ^ exp *
+x17 x38 + tanh x44 atan 0.234344 tan + sinh *
+x38 x37 + ~ tanh acos
+x45 log sin tanh acos x31 atan log x51 x21 + tanh atan / ~ -
+x33 x11 / exp x38 x27 ^ x38 abs / + log log
+x30 x49 * x38 tanh - exp sinh log tan
+x7 atan x53 0.285335 - ^ cos x44 tanh 0.252162 tan ^ tanh x40 log x35 tanh ^ + / exp exp
+x48 x33 ^ abs sqrt x27 x19 - 0.344598 x28 - / x26 sin 0.337583 x32 * / - / x22 0.040725 * x9 x24 * ^ x41 0.275441 * sqrt + atan / sinh tanh acos
+x31 sinh x26 x52 ^ / 0.470467 x20 + cosh sin tan / abs
+x23 x42 + exp x2 sinh cos - log log
+x2 x2 ^ x47 atan - tan
+x19 x23 ^ sqrt log ~ sin 0.346027 x1 - cos atan * cosh exp
+x27 abs 0.193859 x16 / + 0.328592 cos x36 x38 * / ^ exp
+x12 0.212972 + 0.114730 log + x17 0.221774 * x24 x36 / * * 0.361048 0.129376 - x2 x28 / ^ sin / exp
+x44 x21 / 0.043493 x21 / * acos x37 x3 ^ cosh atan abs +
+x33 x28 / x3 0.417209 / - x23 0.214222 - x51 x18 * - - sinh log log
+x15 sqrt exp exp 0.437296 asin asin ^ x10 x29 - tanh x20 0.272638 / x2 0.133301 ^ - * / x26 sin acos abs tanh +
+x42 0.274025 / sqrt cosh tanh abs exp
+x21 x11 ^ sinh tanh exp
+x57 tanh tan cosh sqrt cosh
+x1 x24 + atan tan x22 tanh x16 sqrt + / x9 tanh atan acos / log 0.034526 x3 - x10 x38 / - exp tanh x42 x48 - exp x22 cosh x26 x5 * ^ - * +
+x53 x9 + x48 sqrt + atan x54 exp x26 sinh / asin +
+x46 x19 / 0.225363 sqrt * atan exp
+x15 sqrt tanh abs exp
+x26 abs x32 cosh / sin tanh cosh exp
+x55 x37 ^ x22 log ^ sin x12 sin sinh 0.410517 abs sinh - x14 0.066937 - sqrt x55 sqrt 0.286807 x6 + * ^ - - log tan
+x46 sqrt x17 cosh ^ x44 atan 0.465521 asin / + x7 x31 ^ 0.326539 sqrt ^ exp + log sqrt atan ~ sinh cosh
+x40 0.484217 * x24 tanh * tanh sqrt tan cosh x38 x39 ^ cosh tanh x33 x32 + abs sinh cosh * tan -
+x15 x19 + x5 abs ^ x1 x38 - asin ^ x50 0.236171 ^ cosh x43 0.465360 + x12 0.467240 * ^ + x10 x5 * sqrt x13 atan sqrt + * - x12 sin 0.128342 abs - x32 sinh 0.462617 x53 - ^ * sin ^ exp
+x39 0.274529 - x55 x50 ^ ^ cos exp abs
+x17 abs x25 cos + atan 0.371309 x53 - tanh x44 0.119610 * x16 x45 * ^ ^ * atan x34 atan cos log cos ~ ~ ^ x4 ~ x10 sqrt ^ x9 x39 + x26 exp / ^ exp *
+x35 tan 0.131534 exp * x17 0.369092 - x44 ~ ^ / exp
+x34 x42 + x25 tanh ^ 0.162777 tan x5 cos - + sqrt log
+x40 x26 * sqrt x46 sqrt cos ^ 0.456493 log tanh atan + log x3 log tanh cosh /
+x32 tanh cosh x40 x51 + tanh / cosh x31 sinh tan x44 0.106483 + x36 x50 + ^ / tan cosh tanh /
+x47 ~ x33 0.324877 - - cosh cos cosh sinh
+x3 abs sinh x20 ~ tanh + x19 tanh x47 exp / ^ x14 exp tanh 0.305078 atan asin - sinh tan acos /
+x11 cosh x50 cosh + cosh tanh sin cos x26 sinh tan acos x31 0.316415 ^ abs sqrt tan / ^
+x15 ~ x7 ~ / cos abs 0.129960 asin sqrt 0.250084 log tan ^ abs tan + exp
+x8 ~ x45 atan * x39 x5 ^ sqrt / x53 ~ x33 acos ^ ^ 0.348871 sin abs x7 atan x20 sinh ^ / / exp
+x4 sin cos 0.050008 ~ sinh ^ exp
+x30 x11 / 0.177833 cosh / x8 0.054142 * sqrt - log
+x32 abs x26 x22 - / abs log
+x25 0.129681 + x21 log / x55 x21 - tanh x19 ~ x30 cos - - * sqrt 0.216510 tanh asin ^
+x19 ~ sin x35 0.098142 ^ tan + atan abs cosh x52 sinh 0.168347 x18 - ^ x6 x38 - log ^ tan cosh +
+x7 tanh abs exp 0.075084 log tan x3 x55 ^ sqrt abs ^ sqrt +
+x41 tanh 0.375682 tan - exp sinh
+x5 sqrt x25 x31 / * sin x46 cosh x9 sin - x27 x8 ^ exp x51 x33 / x19 asin / - x57 0.350597 ^ abs * * / cosh tan sinh
+x55 atan tanh sinh exp
+x2 x25 - x1 sqrt * x8 x25 * atan + tanh x9 log sqrt abs sinh *
+x57 x22 - atan exp exp tan
+x23 x57 + tanh x33 sinh 0.225851 sinh ^ * tan
+x41 x54 + 0.295236 x43 ^ - x45 x43 * 0.192607 log ^ / exp atan atan sqrt exp
+x4 tanh x49 log * x9 0.122834 / cos + tanh acos
+x51 sqrt atan cosh x22 tanh acos / exp
+x28 x52 ^ x36 atan * sinh x13 exp sin cosh atan tan x12 x20 ^ x26 x37 ^ + 0.010316 0.267788 - 0.000701 atan ^ ^ exp - sinh * exp 0.426245 tanh cos x21 x49 / acos / tanh 0.423990 sqrt asin 0.193228 x9 + atan ^ - ^
+x48 0.407651 - atan x18 x21 - tanh ^ x55 sin x16 x20 ^ ^ acos sinh ~ ^
+x9 0.308269 ^ x14 0.428469 ^ * log
+x32 x43 / ~ x15 x27 + abs / exp x39 sqrt atan atan tanh exp +
+x22 atan atan cosh ~ exp 0.089719 x20 - atan / acos cosh
+x51 0.019263 + x3 0.202676 / ^ x24 asin x47 0.102766 * ^ / asin x10 0.088436 ^ abs x48 x48 - log / ^ x29 x11 - x53 x14 ^ + x10 cosh x29 0.323008 * ^ ^ 0.473145 x10 / cosh ^ x50 x26 * x54 x9 * * 0.337027 x13 * x55 x56 - ^ + - ^ exp
+x41 x48 * atan sinh abs
+x36 x3 - x37 0.008175 * + atan 0.179881 cos tanh asin ^ 0.435055 0.071764 + log sin x35 cos x40 sqrt / + cos sqrt abs x38 x23 ^ ~ x27 0.138933 * 0.268534 log ^ - / cos +
+x21 x36 + tanh sinh exp
+x10 0.037267 ^ exp x24 x55 * sin cosh tanh sqrt -
+x52 x37 + sin acos x34 sin cos acos 0.114319 tanh 0.033073 log * sinh + 0.469998 x32 - abs sinh x34 x38 * 0.451397 x35 - / cosh / / ^ exp
+x9 x53 * 0.174365 exp * log sqrt
+x53 0.098032 - tanh asin sin exp
+x3 x27 * atan log cosh exp
+x17 x11 - sinh x33 x16 ^ x37 x21 ^ * * x40 x15 * ~ atan + x36 0.094836 ^ x54 x29 / ^ exp asin + 0.095280 tanh cosh log ^ exp
+x35 tanh sqrt atan cosh atan exp
+x36 x23 + 0.499493 atan - tanh cos exp cosh
+x49 x42 * log log x20 exp ~ log x11 0.439148 * x44 tan + tanh x41 0.011948 + 0.212408 0.166576 ^ / sinh ^ * / cosh exp
+x50 x51 / x33 x38 * + tanh exp
+x50 x41 / x21 tanh * sqrt exp
+x52 atan ~ x37 0.004619 ^ abs / atan acos
+x23 x30 / x7 0.111290 - * abs atan cos acos cosh
+x12 tan x30 sinh / cos cosh 0.069262 x7 - tanh tan -
+x49 tanh 0.093899 cos + sinh x49 x9 - tanh tanh *
+x56 x5 / log 0.482965 x35 / sinh * cosh exp
+x22 x40 / acos exp cosh sqrt abs
+x25 x30 / sinh cos exp
+x54 0.410087 + abs log
+x17 atan 0.287459 0.456470 ^ / abs
+x52 tanh sin 0.192043 x50 - x35 ~ + + x14 x27 + sqrt - atan sinh abs
+x34 0.186374 - abs atan cosh
+x46 0.215774 ^ cos x25 sqrt log + x38 sin x49 x41 ^ ^ ~ ^ exp
+x11 x8 - x55 sinh ^ x57 sqrt tanh ^ atan sinh
+x44 log x36 log / exp x24 log sin atan ~ +
+x18 x46 / acos x2 x45 - tan - x32 x43 * sqrt tan - 0.125619 x25 - abs asin * x37 x38 + x55 ~ ^ ~ x24 sinh sinh ^ ^ exp abs
+x51 abs x44 log - tanh exp abs
+x2 0.282382 - log log cosh x4 x41 - exp x25 x37 * log - x25 sqrt tanh exp / +
+x34 ~ x46 log * abs tanh x32 0.466772 / acos acos ^ ~ acos
+x4 atan tan sin 0.370169 acos 0.161077 x32 * - x46 sqrt sqrt tan / ~ * log
+x41 sqrt abs abs log
+x10 atan exp 0.176215 ~ exp / 0.176545 x54 / sqrt * acos exp
+x31 x15 * sin cos exp
+x38 ~ 0.424870 0.104400 + * 0.293684 exp sinh - tanh acos
+x38 tanh x50 tan ^ tan cosh
+x14 x32 * x18 sin + tanh exp
+x30 0.144713 * tan x56 x7 - x48 abs ^ tanh * x46 x42 - tanh acos ^ exp
+x15 0.117326 ^ 0.265543 x37 + + x1 sin exp + x37 x2 / tanh cos / log
+x28 0.364170 - 0.073307 x21 - / exp 0.294229 abs sinh ~ * acos cosh
+x54 x14 + sin x44 ~ x9 0.266063 + + / atan 0.331072 tanh 0.267928 0.200912 * ^ log x1 ~ tanh acos + +
+x1 ~ cosh x3 0.408391 / x3 cosh / ^ exp
+x11 cosh 0.468727 abs ^ atan cosh
+x32 x6 + tanh sin exp x2 x28 / sqrt sqrt atan ^
+x50 0.104350 * sqrt log cosh
+x1 sin x4 x36 + / asin abs acos 0.449754 ~ tanh sin 0.196964 cos tanh x17 cosh x3 x53 - * ^ sin atan + -
+x5 ~ x23 abs + 0.358731 sin sqrt / atan x3 x34 / tan exp tanh sqrt +
+x35 0.394356 ^ abs sqrt
+x6 x43 / sinh sin sqrt acos tan
+x51 atan x37 ~ / x48 x21 / sinh +
+x36 sqrt atan cosh
+x17 atan sqrt cosh cosh
+x9 tan cos abs exp
+x12 abs x22 x9 - - tanh acos
+x35 x21 ^ acos x2 0.019533 ^ cos - 0.388693 0.068685 * asin x4 sinh exp * / exp
+x31 x10 / log cosh exp
+x24 x25 - tanh abs exp
+x51 x43 + abs x41 tanh x30 x14 + ^ / 0.234102 0.219126 + ~ asin ^ sinh x43 x47 + atan sin - acos
+x52 cosh tanh 0.465026 x24 / x52 x18 * ^ / abs asin exp sqrt 0.228553 x8 + x21 x56 - / sinh atan sinh tanh +
+x47 x33 * abs atan 0.353883 ~ tan asin tan -
+x4 sinh tanh acos
+x15 x24 / sin cosh sinh
+x37 log 0.297799 x57 / ^ x24 abs tanh cos / sinh
+x30 abs 0.368756 cosh ^ 0.214914 ~ 0.070336 0.174902 / / - tanh asin x24 cos x6 x51 * - exp / exp
+x54 log sqrt ~ cosh
+x18 0.083703 ^ cos cosh exp abs
+x44 x27 - 0.089893 0.174737 + * x30 x52 / x13 x52 + / ^ cosh abs 0.283672 tan acos 0.219122 cosh sqrt - exp +
+x57 atan exp sqrt ~ x37 0.339314 ^ log ~ / x7 x51 * abs 0.045126 0.152376 ^ x25 ~ ^ / cos sinh ^
+x7 x17 / sqrt sinh sqrt abs
+x49 ~ tan atan x22 x35 / x30 x21 / ^ 0.084205 tan 0.284587 cos * / log +
+x43 atan atan exp
+x25 x46 / cosh cosh cosh
+x10 x19 / 0.109726 sqrt / log ~ abs
+x5 x2 / 0.458488 sin / x51 x56 * atan + abs ~ cosh
+x38 ~ atan sin 0.455880 0.494501 + x35 atan + x36 tan x53 x8 - + / asin cosh / acos
+x42 log x17 x19 / ^ sqrt 0.408430 0.167226 - tan cosh sinh log sinh atan -
+x54 tanh ~ acos
+x45 tanh exp sinh tan sinh ~ tan
+x54 log 0.244838 x2 ^ ^ exp
+x41 x15 / x25 log / cos exp
+x2 log abs log abs
+x30 log log cosh
+x16 atan exp atan tanh exp
+x45 0.289348 + 0.339665 log ^ sqrt cos exp
+x27 x4 ^ sinh abs x6 0.252790 - log + abs
+x14 atan atan exp
+x43 0.353570 + cos 0.061917 abs atan * cosh exp
+x49 x36 - x7 x51 - / ~ cosh exp
+x40 sqrt tanh x15 0.169966 * 0.016269 x49 - ^ cos + sinh
+x55 x51 - exp atan x8 x48 - 0.142952 x1 * - atan ^ atan cosh abs
+x45 cos cosh atan abs 0.049429 x10 ^ x40 0.027050 ^ * atan sinh / exp
+x24 tanh sinh tan ~ ~ exp sqrt
+x19 x42 * 0.387661 sinh ^ sqrt abs sqrt
+x39 0.063133 ^ x41 x20 - / sin x12 sqrt 0.475885 x22 ^ - x11 atan abs * 0.361838 x47 * ~ / ^ abs exp
+x25 0.009431 ^ atan exp x19 x30 / 0.225924 0.495723 ^ - 0.191294 cosh x43 atan ^ cos - -
+x52 sqrt atan atan exp
+x40 atan sin exp
+x41 x42 * 0.394904 0.304880 + + 0.168543 x39 ^ cosh ~ * tanh acos
+x40 sinh x52 x52 / - x36 acos asin * 0.169439 x28 + log ^ x4 tanh x44 x50 * + x31 sqrt exp + x24 asin x19 cosh + ^ * 0.102004 0.120017 / 0.328588 x45 ^ * tanh / exp
+x5 tanh x3 0.186897 - - ~ abs log
+x4 x44 / ~ cos exp
+x13 0.419223 ^ cos abs ~ acos
+x29 x12 + x50 sqrt / log
+x26 x47 + x27 x52 / + 0.430837 sqrt x26 0.049688 + ^ ^ exp abs
+x14 x36 * tanh 0.095535 x31 + acos ^ cosh 0.451099 ~ tanh acos +
+x29 x46 / ~ tanh acos
+x50 cos cosh exp abs
+x48 ~ atan cosh
+x19 x25 - sin 0.132060 x9 * 0.173661 sqrt + - tanh acos
+x36 0.199464 ^ atan sqrt x50 0.366746 ^ x45 x25 * + 0.278906 0.108439 / tanh * ^ 0.404339 x25 - x29 sin / x34 tanh x50 x41 * * * x6 x9 - sin x41 abs 0.060558 abs - + + + tanh exp
+x12 x9 ^ x55 x44 + + tanh exp
+x2 x57 - 0.196265 x2 ^ - tanh 0.310563 exp cos + exp
+x34 log sqrt exp log
+x13 0.308443 ^ 0.397813 tanh + x5 x38 + x52 tanh + + atan sinh
+x21 0.360649 / atan cosh x40 0.048053 ^ 0.011548 x11 - * exp cos *
+x50 x56 - ~ 0.073458 cos x22 x27 - + / atan cosh abs
+x11 x10 / sinh sqrt x30 0.040083 ^ x53 x53 + ^ tanh cosh ~ - cosh
+x41 cos abs x43 0.039396 * sinh 0.315762 ~ acos / ^ asin x41 0.378187 / 0.268292 x55 - ^ sqrt x48 x48 + x4 cosh * log ^ sinh ^ exp
+x52 0.349960 ^ x47 x54 / + atan 0.397012 x48 + tanh ~ * cosh
+x48 x32 / 0.391649 0.303849 + * exp sinh
+x56 cosh x56 x42 / / tanh x28 ~ atan exp cosh * tanh exp
+x11 tanh exp x36 0.031991 ^ 0.159058 cos ^ atan /
+x35 x11 ^ sqrt x57 x33 / 0.311644 sqrt / + 0.113363 sqrt 0.028207 x43 * ^ ^ exp
+x49 x32 / sqrt exp
+x8 x48 - atan cosh
+x19 log x21 x54 + * atan sin exp
+x20 x20 - atan cosh cosh cosh
+x37 tanh tanh sqrt atan sqrt exp
+x26 x4 ^ tanh 0.299549 x47 / x16 atan / atan + acos cosh
+x56 abs sqrt abs
+x37 0.277046 + 0.033364 0.391067 + / x55 0.027170 / 0.123640 x33 / * - x25 x22 + 0.167468 x26 ^ / x22 tan exp - - log
+x4 cosh x38 cos - abs atan
+x49 atan x10 log ^ sqrt atan sinh cosh
+x15 atan 0.114485 sinh - sqrt exp
+x25 tanh asin sin ~ x9 log ~ cos - 0.059442 abs 0.271099 cosh / x48 tan 0.237151 x31 ^ / x31 tanh acos abs + asin * acos * cos exp
+x14 x21 / sqrt tanh asin 0.338122 abs sqrt exp +
+x20 sqrt x50 sin * ~ x6 x52 - exp asin / abs atan cosh cosh
+x16 log x56 x51 / * asin tan asin exp
+x48 ~ abs 0.180110 sqrt sin / sin tan sin cos abs cosh
+x49 x42 + tan x35 tanh x33 tanh - - abs cos atan tan abs
+x6 x32 * sin cosh sqrt atan tan
+x36 x29 - sin cos sqrt sin exp sqrt sinh
+x19 0.168073 * tan x8 x6 / x40 0.427634 / ^ - sin sinh cos 0.118839 x1 ^ sinh atan cos sqrt abs * acos abs
+x56 log exp x29 sin acos / tanh exp x29 0.332077 + abs sin cosh tanh * sqrt
+x19 abs 0.304989 ~ - x4 sin asin ^ 0.246348 x18 / x12 x55 + * x49 x27 - x46 atan + + * tan sin ~
+x6 x38 * ~ atan cosh atan tan 0.375959 0.175460 + 0.057736 sin - tanh sin cos sqrt ~ +
+x43 log abs x39 0.243959 + 0.281039 x46 - / / ~ cos atan ~
+x42 abs sqrt x48 x42 + cos ^ x7 x49 * sqrt 0.084951 x44 - x47 0.095880 + - - / ~ asin exp
+x25 x23 * 0.298083 abs + x47 tan 0.289144 0.354238 / - - 0.283210 atan 0.039867 x5 + * sin ^ tanh tanh cosh
+x5 abs abs x21 0.066401 ^ x55 x53 + ^ / exp sinh tan sqrt
+x44 0.069503 / tan 0.189280 abs x29 x45 - / - x17 tanh cosh sin + atan cosh
+x52 tanh x43 cos * cos log x13 x31 + cos cosh atan + cosh exp
+x30 x38 + x29 0.058976 ^ ^ sqrt tanh sqrt asin abs
+x8 0.057912 ^ x11 0.045819 / * 0.325103 0.011821 / abs / 0.013933 sin exp tanh / cos x2 x42 * abs atan x53 cos cosh x5 x35 + log - / asin - exp
+x9 x15 / x11 x2 + / atan cosh 0.110716 x16 * exp atan exp + atan abs
+x56 tanh x4 sin / x21 0.145457 * 0.095700 x2 - ^ ^ tanh sinh sinh x33 log ~ cos cosh 0.458126 exp x53 x19 - - x34 tanh 0.232934 tan - * x22 sin x27 x9 * / cos / - / acos
+x43 sin tanh acos x46 x27 / ~ exp - cos cos
+x27 atan x45 x48 * / ~ cos tanh x36 0.322868 / tanh acos sqrt asin sin ^ cosh
+x12 tanh tanh 0.775081 asin x3 x11 * / * asin asin tan acos
+x15 x45 + x24 asin - x35 asin x21 sqrt * - tanh x46 cos cosh 0.772145 tanh x39 x14 * ^ * asin ^ 0.301053 x49 / x5 x11 + + x48 cos tanh - x5 0.529939 - acos x29 abs atan - ^ x52 sin 0.796164 x20 * * x54 acos abs / sin + ^ cosh cosh
+x34 0.465213 + x52 ~ ^ sinh log abs 0.978698 sinh sin sin asin 0.835261 cosh x44 x1 + * sin cosh + * tanh ~ atan acos
+x13 x40 + tanh x29 tanh x23 x22 + / + sqrt sin cosh exp abs
+x32 x8 + sin x3 atan x33 abs + + x49 0.368448 * cos abs ^ x28 x43 * x38 x16 - * abs x6 x43 + tanh asin + * sin cosh 0.334859 0.528726 + tanh sqrt sin sinh abs sin +
+x20 0.589300 * tanh atan x41 0.888050 / log 0.739734 asin log / + atan cosh
+x9 x7 * cos 0.964033 x57 + tanh * ~ tan tanh tanh abs exp
+x48 x44 - cosh x39 ~ exp / x50 sqrt x18 x55 * * 0.905260 sqrt x39 tanh + + - exp acos
+x33 log tanh exp cosh sinh log sqrt
+x48 x30 - x19 x43 + + sqrt sqrt log abs abs cos cosh
+x1 sin x17 0.876029 / * tan ~ tanh abs exp
+x34 sin cosh abs x29 x54 / x4 sinh ^ sin * cosh tan sqrt sin exp
+x49 cos x35 tanh - cos cos sin sqrt asin
+x15 x50 / sinh exp x10 0.535425 - x46 atan ^ x30 0.163567 + 0.566995 exp * / / tanh exp exp exp log
+x49 0.190508 * tanh asin cosh cosh cos cosh cosh
+x53 tanh ~ exp ~ x16 x28 + sin cosh atan * x30 abs abs atan abs sin - abs tan
+x50 x1 * x38 0.325832 - * log tanh abs tan
+x19 cos x14 0.777084 - + ~ cos cos sinh cosh
+x34 cos x6 ~ * cos cos asin sinh cosh
+x28 0.146067 + sqrt sqrt sinh ~ tanh acos
+x28 x55 ^ x27 ~ + 0.289592 abs cos + 0.719326 x26 ^ tan sqrt ^ ~ exp exp
+x43 sqrt atan cosh sin 0.908451 abs asin x13 x2 - x51 0.902365 + + - x44 cos abs x32 x48 / 0.456815 ~ ^ - * ^ 0.548602 cos x8 sin - sin x8 x26 - x6 x5 ^ / x31 x39 - x21 sin ^ * + x8 acos acos x6 x8 / x9 x14 / + * log * ^ cosh atan atan x15 x47 - 0.223297 x48 / * sinh x46 0.158083 / tanh sinh * asin x48 x22 * x26 x48 - ^ cos x42 x11 ^ ~ x39 ~ 0.785573 x57 * * - / ~ * /
+x19 tan atan cos x34 tan abs x45 sqrt x51 log / + + cos cosh exp
+x24 x17 / ~ exp 0.591037 cos 0.390590 log + cosh / ~ asin cos asin
+x5 x28 - x29 0.851855 - / sin atan sin cosh exp
+x39 x1 * tanh log exp ~ exp exp
+x10 sqrt x16 x3 * - sin atan sinh exp cos tanh acos cos cos exp
+x34 x7 + atan log sinh tanh exp
+x31 x45 * atan atan sinh 0.851280 x7 * log 0.850146 x28 ^ 0.374577 x23 + * * 0.402154 x12 * x5 x6 * - cos * + sin tanh cos exp
+x31 tan cos exp x41 0.626131 + x16 atan - tanh ^ tanh ~ sin exp exp
+x42 ~ x46 x52 * * exp cos abs sinh
+x44 x52 + x10 x51 * - cos tanh cosh abs abs cosh
+x54 x1 * x18 sqrt + 0.733528 exp x47 tanh * / tanh tan cosh tan acos
+x13 atan x28 0.693251 / * tanh ~ tanh acos
+x54 x27 / x39 sqrt + x31 x13 * tanh + 0.984604 acos atan tan ^ x5 0.852168 ^ tanh 0.655737 x26 + 0.512596 asin / * tanh ^ cosh
+x56 x13 + x7 ~ - x15 0.183963 + x17 x32 + / * 0.194141 0.384609 + log 0.721632 cos x30 0.626350 ^ + + / sqrt sin acos
+x2 tan x46 cos * sin tanh sin tanh cos exp
+x17 x37 * tanh x48 cosh sinh ^ cosh x44 x16 + x8 x53 / ^ sin tan / exp
+x26 abs x40 0.966495 - / 0.416926 abs x55 abs / ^ x24 0.518296 + atan 0.882853 acos asin + ^ tan exp
+x43 asin x6 exp * sqrt tan x36 log tanh x45 log 0.746467 x3 * ^ / 0.906311 exp atan atan ^ / x47 exp x41 sin / x29 abs cosh - tan x23 acos sinh 0.602702 abs tan ^ x7 acos x16 x22 / / 0.940127 x32 ^ acos * ^ * ^ tanh exp atan cosh
+x50 x12 - 0.545042 x46 ^ ^ ~ atan sinh acos
+x40 sin abs sin x38 0.258323 / x22 0.866388 * / 0.975214 x30 * x26 tanh - ^ - sqrt cos cosh cosh
+x47 0.873662 - tanh 0.571375 x35 ^ x9 x3 ^ - / tanh abs cos exp
+x46 abs 0.977342 tanh + 0.869360 sin cosh + cos atan cosh atan
+x10 log abs atan sqrt 0.614317 0.352664 - tanh x50 x13 * x28 x53 - * + sin ^ cosh cosh
+x51 tanh x12 tanh - x43 x40 / x40 x31 - ^ ^ tanh cos x12 x47 * cos cos atan exp + atan exp sqrt sinh
+x27 tanh sqrt tanh 0.835247 x51 / x46 x34 - * x2 tanh cos * ^ exp ~ ~
+x12 tanh x23 x19 - * 0.974528 sinh ~ + x25 exp x1 sinh / 0.421552 x31 / exp * / 0.187095 ~ x48 ~ / exp acos + x15 cosh x9 x54 - - x48 x18 + x55 abs * ^ sqrt 0.621773 x41 / x26 cosh * sqrt x11 abs cosh x29 x12 * asin / / ^ + tanh tanh x53 cosh atan x5 x33 ^ x35 x31 + - + x47 tanh log sin ^ acos ^ exp
+x54 abs tanh x1 x1 - acos + abs x38 x18 / 0.675073 cosh + 0.729334 asin x7 x11 * ^ / log tanh sqrt +
+x45 atan tanh acos cos 0.116658 0.451898 ^ sin tan + tan
+x15 0.786006 ^ x10 x51 * / exp exp
+x22 log 0.736607 asin + abs tan acos
+x47 x19 / x6 log * cos abs ~ acos
+x15 sqrt x39 x41 / / sqrt atan exp
+x16 x15 / cosh x9 abs ~ * abs log log tan
