@@ -155,8 +155,8 @@ TreeNode* CalTree::randomTree(int max_depth)
 			num_nt++;
 			w = new TreeNode(s);
 			w->valuetype = 2;
-			if (max_depth > 3) {
-				w->left = randomTree(max_depth - 1 - random_int(max_depth-1-3));
+			if (max_depth > 2) {
+				w->left = randomTree(max_depth - random_int(max_depth-2));
 			}
 			else {
 				w->left = randomTree(max_depth - 1);
@@ -170,9 +170,9 @@ TreeNode* CalTree::randomTree(int max_depth)
 			num_nt++;
 			w = new TreeNode(s);
 			w->valuetype = 3;
-			if (max_depth > 3) {
-				w->left = randomTree(max_depth - 1 - random_int(max_depth-1-3));
-				w->right = randomTree(max_depth - 1 - random_int(max_depth-1-3));
+			if (max_depth > 2) {
+				w->left = randomTree(max_depth - random_int(max_depth-2));
+				w->right = randomTree(max_depth - random_int(max_depth-1));
 			}
 			else {
 				w->left = randomTree(max_depth - 1);
@@ -687,7 +687,7 @@ vector<CalTree*> next_generation(vector<CalTree*> generation)
 vector< pair<int,int> > choose_pairs(vector<double> ratios)
 {
 	vector< pair<int,int> > pairs;
-	for (int i=0; i<200; i++) {
+	for (int i=0; i<300; i++) {
 		float val1 = random_real(1.1)-0.1;
 		float val2 = random_real(1.1)-0.1;
 		int v1 = -1;
@@ -745,6 +745,8 @@ pair< pair<TreeNode*,TreeNode*>, pair<int,int> > CalTree::pick_node(TreeNode* pa
 			{
 				//cout << "pick_node error" << endl;
 				//exit(1);
+				return make_pair(make_pair(node,node->left),make_pair(0,0));
+
 			}
 			auto b = pick_node(node, node->right, a.second.first, a.second.second, expected);
 			return b;

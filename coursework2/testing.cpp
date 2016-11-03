@@ -1,4 +1,6 @@
 #include <iostream>
+#include <cstring>
+#include <cstdlib>
 #include <cmath>
 #include "caltree.hpp"
 
@@ -11,27 +13,24 @@ int main(int argc, char** argv)
 		return 0;
 	}
 
-	vector<CalTree> trees;
-	
-	// TODO: change to random generation
-	// current: get expr from stdin
 	string line;
 	getline(cin, line);
 
 
 	string filename(argv[1]);
 	data_read(filename);
-	CalTree tree = CalTree(false);
-	tree.make_tree(line);
+	CalTree* tree = new CalTree(false);
+	tree->make_tree(line);
 	
 	
 	cout << "number of vectors:   " << num_vector << endl;
 	double val;
 	for (int i=0; i<num_vector; i++) {
-    	val += tree.calculate(i);
+    	val += tree->calculate(i);
 	}
 	val /= num_vector;
+	tree->expression = tree->get_postfix();
+	cout << tree->expression << endl;
 	cout << "MSE  " << val << endl;
-	string postfix = tree.get_postfix();
-	cout << postfix << endl;
+	delete tree;
 }

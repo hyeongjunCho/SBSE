@@ -41,6 +41,7 @@ class CalTree
 		double mse;
 		int num_nt;
 		int num_t;
+		string expression;
 	private:
 		stack<TreeNode*> tree_stack;
 		bool exist_x;

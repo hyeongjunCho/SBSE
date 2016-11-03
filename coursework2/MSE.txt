@@ -715,3 +715,48 @@ x22 log 0.736607 asin + abs tan acos
 x47 x19 / x6 log * cos abs ~ acos
 x15 sqrt x39 x41 / / sqrt atan exp
 x16 x15 / cosh x9 abs ~ * abs log log tan
+x32 tan abs x38 sqrt tanh * x56 x16 / x48 x36 + ^ atan ^ exp
+x48 0.602682 - sqrt ~ x24 cos abs cosh + x40 0.742782 - 0.347863 cos + 0.817290 x1 / sin * - abs log
+x1 sqrt x3 atan ^ log
+x37 sqrt sqrt ~ tan x55 sin abs cosh log cos ^
+x10 tanh exp abs x22 x34 + atan sin *
+x26 x23 * atan abs cosh exp log
+x17 x6 / ~ cosh sqrt
+x3 x45 * abs 0.299550 asin tanh x23 x48 + tanh log * / exp
+x30 0.133493 ^ x56 x50 * - ~ tanh ~ acos
+x54 log x55 sin + cos tanh x16 sqrt sqrt 0.482096 asin tan log - +
+x44 log exp atan sin exp
+x14 x9 + log x56 tanh cos asin *
+x24 x36 / x57 0.234039 * + log
+x19 0.169493 ^ tanh 0.184242 0.480657 - x29 0.551211 ^ / 0.604505 log x50 sqrt / + cos / exp
+x49 ~ x11 ~ / x57 log tanh x40 x1 + abs ^ x33 cos sin x9 x53 - sin + - + log
+x41 tanh ~ ~ sinh abs exp
+x48 abs 0.152453 x7 / - 0.122768 x2 - x32 x45 * * / atan x21 x29 * 0.770594 x23 / ^ sqrt + sqrt sinh exp
+x41 ~ 0.285864 asin + tanh acos
+x52 x15 + sqrt abs log
+x42 x4 + log atan sin exp
+x9 x48 * x7 0.610985 + + atan sinh
+x1 x18 * 0.218368 x36 - - ~ tanh acos
+x56 0.358052 ^ sqrt cosh 0.382326 tanh sin acos atan sin /
+x20 ~ tanh acos x43 x11 * 0.418814 cosh + tanh /
+x14 x1 - x51 0.723553 / / sinh abs cosh exp
+x18 atan 0.243910 x56 * / sqrt x4 x31 / x16 x56 / * abs / cosh
+x40 sin 0.565121 x36 ^ / ~ acos
+x31 x55 / cosh log sqrt cosh log
+x45 x19 * sqrt log sin abs 0.201367 0.261274 / x55 sqrt * abs sqrt +
+x4 x9 / tan tanh x21 x55 + x10 x23 - / ~ - asin acos cosh
+x27 0.877280 / atan cosh 0.862213 exp atan sin - cosh
+x57 x10 / exp exp
+x27 x27 / cosh exp abs x21 abs tanh abs cosh -
+x21 atan exp x52 atan sin + log sinh
+x28 atan sinh 0.107898 cosh cos ^ sinh abs
+x54 x29 / acos x14 tanh x30 0.420083 ^ ^ + tanh sinh x14 tanh exp *
+x21 x26 / 0.474918 ~ + 0.823389 x53 / tanh + cosh tan
+x54 log x27 cos + sqrt sinh
+x40 ~ cos tanh 0.544430 sinh cos ~ * cosh exp
+x48 abs sqrt log
+x22 sqrt tanh abs exp
+x21 atan abs cosh
+x51 abs atan x45 sin x37 abs + / x45 0.156313 - sqrt log + abs
+x50 tanh cos exp sinh
+x47 0.178748 + x49 x19 + * log sqrt
